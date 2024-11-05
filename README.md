@@ -6,20 +6,6 @@
 
 The **Walmart Electronics Customer Review Sentiment Analysis** project applies natural language processing (NLP) and machine learning techniques to analyze customer sentiments from reviews of Walmart's electronic products. By categorizing reviews as positive, negative, or neutral, this project provides valuable insights into customer satisfaction and helps Walmart better understand user feedback for product improvements.
 
-## Table of Contents
-- [Description](#description)
-- [Demonstration](#demonstration)
-- [Example Visualization](#example-visualization)
-- [Technologies Used](#technologies-used)
-- [Dataset](#dataset)
-- [Installation and Setup](#installation-and-setup)
-- [Usage](#usage)
-- [Results](#results)
-- [Future Scope](#future-scope)
-- [Contributing](#contributing)
-- [License](#license)
-- [About the Author](#about-the-author)
-
 🔍 **Demonstration**
 
 This analysis visualizes customer sentiment trends and categorizes individual reviews, enabling Walmart to track customer satisfaction over time and identify specific areas of improvement. Insights from this project can guide Walmart’s strategies in enhancing product offerings, addressing customer concerns, and boosting overall customer experience.
@@ -112,4 +98,3 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 - [GitHub](https://github.com/Anirudhpatil367)
 - [LinkedIn](https://www.linkedin.com/in/anirudhpatil367/)
-This approach should resolve the issue. Let me know if you’d like further assistance!
