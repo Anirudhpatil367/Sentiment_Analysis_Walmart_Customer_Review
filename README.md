@@ -8,7 +8,8 @@ The **Walmart Electronics Customer Review Sentiment Analysis** project applies n
 
 ## Table of Contents
 - [Description](#description)
-- [Demonstration](#demonstration)
+- [Demonstration](#Demonstration)
+- [Example visualization](#Example-visualization)
 - [Technologies Used](#technologies-used)
 - [Dataset](#dataset)
 - [Installation and Setup](#installation-and-setup)
@@ -17,6 +18,7 @@ The **Walmart Electronics Customer Review Sentiment Analysis** project applies n
 - [Future Scope](#future-scope)
 - [Contributing](#contributing)
 - [License](#license)
+- [About the Author](About-the-Author)
 
 🔍 **Demonstration**
 
@@ -104,7 +106,7 @@ Contributions are welcome! Please open an issue or submit a pull request if you 
 
 **Anirudh Patil** - *Data Science Enthusiast*
 
-- [GitHub]((https://github.com/Anirudhpatil367))
+- [GitHub](https://github.com/Anirudhpatil367)
 - [LinkedIn](https://www.linkedin.com/in/anirudhpatil367/)
 
 📄 **License**
