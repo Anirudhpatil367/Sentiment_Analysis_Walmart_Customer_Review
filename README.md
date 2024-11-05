@@ -1,7 +1,3 @@
-Here's an updated version of the `README.md` that incorporates all the suggested elements while keeping your original content intact:
-
----
-
 # 📊 Walmart Electronics Customer Review Sentiment Analysis
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Python](https://img.shields.io/badge/python-3.8%2B-blue) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -28,7 +24,7 @@ This analysis visualizes customer sentiment trends and categorizes individual re
 
 Example visualization:
 
-![Sentiment Analysis Visualization](path/to/visual.png)
+![Sentiment Analysis Visualization](Visual_image.png)
 
 🛠️ **Technologies Used**
 
@@ -108,8 +104,8 @@ Contributions are welcome! Please open an issue or submit a pull request if you 
 
 **Anirudh Patil** - *Data Science Enthusiast*
 
-- [GitHub](https://github.com/yourusername)
-- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [GitHub]((https://github.com/Anirudhpatil367))
+- [LinkedIn](https://www.linkedin.com/in/anirudhpatil367/)
 
 📄 **License**
 
