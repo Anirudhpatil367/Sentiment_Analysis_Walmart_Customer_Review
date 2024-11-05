@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Python](https://img.shields.io/badge/python-3.8%2B-blue) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-##📝 **Description**
+📝 ###**Description**
 
 The **Walmart Electronics Customer Review Sentiment Analysis** project applies natural language processing (NLP) and machine learning techniques to analyze customer sentiments from reviews of Walmart's electronic products. By categorizing reviews as positive, negative, or neutral, this project provides valuable insights into customer satisfaction and helps Walmart better understand user feedback for product improvements.
 
