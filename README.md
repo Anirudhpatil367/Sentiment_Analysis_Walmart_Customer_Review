@@ -41,12 +41,6 @@ git clone https://github.com/username/Walmart-Sentiment-Analysis.git
 cd Walmart-Sentiment-Analysis
 ```
 
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
 ## Usage
 
 1. Open the notebook:
