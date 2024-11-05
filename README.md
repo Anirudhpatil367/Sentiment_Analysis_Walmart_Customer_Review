@@ -1,8 +1,3 @@
-Got it! The issue here is that GitHub's Markdown does not parse emojis or special characters correctly when used in headers and linked through anchor tags in the Table of Contents.
-
-To fix this, let’s remove the icons in the anchor text but keep them in the actual headers. Here’s the revised version:
-
-```markdown
 # 📊 Walmart Electronics Customer Review Sentiment Analysis
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Python](https://img.shields.io/badge/python-3.8%2B-blue) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -117,10 +112,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 - [GitHub](https://github.com/Anirudhpatil367)
 - [LinkedIn](https://www.linkedin.com/in/anirudhpatil367/)
-```
-
-### Explanation of the Fix
-- I removed the emojis from the Table of Contents links, which prevents them from interfering with the anchor links. This should ensure that every item in the Table of Contents now works properly.
-- The emojis are still in the headers, so the overall style and appearance are preserved. 
-
 This approach should resolve the issue. Let me know if you’d like further assistance!
